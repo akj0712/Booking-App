@@ -4,7 +4,7 @@
 ### Click [here](https://booking-app-akj.netlify.app/) to use the app! or you can walk around the [Snippets](https://github.com/akj0712/Booking-App#snippets) of the project for a quick glance.
 
 ```
-Use this dummy account to sign in and access all the website functionality:
+Use this dummy account to sign in and access all the website's functionality:
 Username: test
 Password: 12345
 ```
