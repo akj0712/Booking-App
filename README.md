@@ -5,7 +5,7 @@
 
 ```
 Use this dummy account to sign in and access all the website functionality:
-Email: test@test.com
+Username: test
 Password: 12345
 ```
 
